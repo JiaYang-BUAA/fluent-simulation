@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fluent 仿真与验证"
+  short_description: "规划 Fluent 网格与算力、执行流热计算并按工程指标验收"
+  default_prompt: "用 $fluent-simulation 检查这个算例的物理条件，给出三档网格、工时和验收建议。"
